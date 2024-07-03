@@ -1,4 +1,5 @@
 ## About me
+
 I am currently a second year student at the Hokkaido University studying at the [Modern Japanese studies Program](https://www.oia.hokudai.ac.jp/mjsp/).
 I am also an avid traveler, and recently visited Sydney, Australia and Auckland, New Zealand.
 
