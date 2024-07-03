@@ -19,3 +19,4 @@ I am also an avid traveler, and recently visited Sydney, Australia and Auckland,
 | 10. South Korea   | 20. San Marino | 30. Norway             | 40. Turkey               | 50. Dominican republic |                 |
 
 
+![Alt text](Auckland1.png)
