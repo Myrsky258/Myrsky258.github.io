@@ -1,7 +1,9 @@
 ## About me
 I am currently a second year student at the Hokkaido University studying at the [Modern Japanese studies Program](https://www.oia.hokudai.ac.jp/mjsp/).
 I am also an avid traveler, and recently visited Sydney, Australia and Auckland, New Zealand.
+
 ### Countries I have visited
+
 | 1-10              | 11-20          | 21-30                  | 31-40                    | 41-50                  | 51-             |
 |-------------------|----------------|------------------------|--------------------------|------------------------|-----------------|
 | 1. Sweden         | 11. Austria    | 21. Switzerland        | 31. Lithuania            | 41. Macedonia          | 51. Belize      |
