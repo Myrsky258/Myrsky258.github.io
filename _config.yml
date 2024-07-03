@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: The home page of Tiia Myrsky, MJSP second year
+description: What you will find here is information about my school program and travel history
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+url: "https://myrsky258.github.io/"
+markdown: kramdown
